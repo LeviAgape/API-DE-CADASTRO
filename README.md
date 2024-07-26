@@ -1,5 +1,5 @@
 # Projeto API de registro
-Uma API desenvolvido por Levi Ágape.
+Uma API desenvolvida por Levi Ágape.
 ## Sobre o projeto
 Trata-se de uma API, que vai realizar cadastros, atualização, exclusões e listagens, baseando-se nas informações passadas através das requisições da API e pelos dados armazenados no MongoDB
 ## Índice
