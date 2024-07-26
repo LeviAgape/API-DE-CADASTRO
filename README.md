@@ -1,7 +1,7 @@
 # Projeto API de registro
 Um CRUD desenvolvido por Levi Ágape.
 ## Sobre o projeto
-Trata-se de uma API CRUD, que vai realizar cadastros, atualização, exclusões e listagens, baseando-se nas informações passadas através das requisições da API e pelos dados armazenados no MongoDB
+Trata-se de uma API, que vai realizar cadastros, atualização, exclusões e listagens, baseando-se nas informações passadas através das requisições da API e pelos dados armazenados no MongoDB
 ## Índice
 - Tecnologias utilizadas :
 - Node.JS  20.11
